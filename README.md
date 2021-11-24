@@ -1,2 +1,2 @@
-# super-duper-octo-couscous
+# Application
 merge conflict test
