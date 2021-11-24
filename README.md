@@ -1,2 +1,2 @@
-# App
+# Application
 merge conflict test
